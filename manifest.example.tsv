@@ -1,0 +1,11 @@
+sample	taxon	fasta
+LT1	Geobacter	proteins/LT1-Geobacter.faa
+LT2	Geobacter	proteins/LT2-Geobacter.faa
+LT3	Geobacter	proteins/LT3-Geobacter.faa
+LT3	Azospira	proteins/LT3-Azospira.faa
+LT4	Geobacter	proteins/LT4-Geobacter.faa
+LT4	Azospira	proteins/LT4-Azospira.faa
+LT4	Cupidesulfovibrio	proteins/LT4-Nitratidesulfovibrio.faa
+LT5	Geobacter	proteins/LT5-Geobacter.faa
+LT5	Azospira	proteins/LT5-Azospira.faa
+LT5	Cupidesulfovibrio	proteins/LT5--Nitratidesulfovibrio.faa
